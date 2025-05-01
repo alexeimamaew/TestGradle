@@ -7,6 +7,6 @@ public class SimpleJUnitTests {
         int a = 1;
         int b = 2;
         int sum = a + b;
-        Assertions.assertEquals(4, sum);
+        Assertions.assertEquals(3, sum);
     }
 }
